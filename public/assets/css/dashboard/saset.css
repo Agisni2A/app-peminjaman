@@ -1,0 +1,17 @@
+.btn-group {
+}
+
+#item_wrapper {
+  padding: 5px;
+}
+
+#item_info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+#item_filter {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
